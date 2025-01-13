@@ -208,10 +208,6 @@ Avec ce parcours sur cette matrice avec bordure, tous les éléments de la grill
 
 1. Voici le squelette de l’algorithme avec du pseudo code:
 
-# Jeu de la Vie : Code Python
-
-Voici un exemple de code pour implémenter le jeu de la vie avec des fonctions pour calculer les voisins et la prochaine génération.
-
 ### Code :
 
 ```python
@@ -258,6 +254,7 @@ def compute_next_frame(frame):
 while True:
     print(frame)
     frame = compute_next_frame(frame)
+```
 
 ### Barème exercice 2 :
 
