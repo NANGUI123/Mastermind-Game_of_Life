@@ -143,7 +143,7 @@ Si vous avez terminé les étapes précédentes :
 4. Gérez les interactions souris
 5. Ajoutez des animations
 
-**# Exercice 2 : Conway’s game of life
+# Exercice 2 : Conway’s game of life
 
 ## Objectif:
 
